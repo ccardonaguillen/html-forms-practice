@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+aside {
+    width: 300px;
+    background-color: rgb(140, 140, 209);
+}
